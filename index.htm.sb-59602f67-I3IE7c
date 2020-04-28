@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<body>
+<style>
+body {background-color: orange;}
+h1 {
+  border: 1px solid powderblue;
+  margin: 50px;
+}
+p {
+  border: 8px solid powderblue;
+  margin: 50px;
+}
+p    {color: pink;}
+</style>
+<h1 style="color:pink; font-size:59  border: 1px solid powderblue;">WeLcOmE</h1>
+<h1 style="color:yellow; font-size:12  border: 6px solid powderblue;">tO</h1>
+<h1 style="color:pink;font-size:80  border: 1px solid powderblue;">tHe</h1>
+<h1 style="color:yellow;font-size:36  border: 18px solid pink;">HOmE</h1>
+<h1 style="color:pink;font-size:100  border: 22px solid powderblue;">p@Ge</h1>
+
+
+<p>ThIs 7s the H0m3 of the H0m3 p@g3</p>
+
+</body>
+</html>
+<a href="file:///Users/alondrabahena/Desktop/index.htm">Home</a>
+<a href="file:///Users/alondrabahena/Desktop/index%20copy%202.txt">Page 2</a>
+<a href="file:///Users/alondrabahena/Desktop/index%20copy.txt">Page 3</a>
